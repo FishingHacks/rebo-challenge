@@ -4,3 +4,5 @@ You need to get through a exploit for the index file the flag program executed. 
 I am not going to do a writeup for this ._.
 
 Please attempt it without looking in the source first, it will help you with reverse engineering and gives myself more satisfaction. :)
+
+Linux only (are elf-64 binaries)
